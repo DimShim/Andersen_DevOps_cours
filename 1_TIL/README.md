@@ -1,5 +1,5 @@
 # 30.08.2021 Today I've Learned
-1. Life Cycles of Software Products
+1. Software Development Lifecycle
 2. Development models:
   > * Waterfall
   > * Incremental
