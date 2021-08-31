@@ -6,3 +6,7 @@
   > * Iterative
   > * Spiral
   > * Agile 
+
+# 31.08.2021 Today I've Learned
+1. Markdown syntax
+ 
