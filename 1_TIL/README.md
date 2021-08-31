@@ -9,4 +9,6 @@
 
 # 31.08.2021 Today I've Learned
 1. Markdown syntax
+2. DevOps tools roadmap
+3. Basic concept of Jenkins
  
