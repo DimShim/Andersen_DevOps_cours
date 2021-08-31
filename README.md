@@ -16,6 +16,6 @@
 
 # My expectations from the course:
 
-- detailed presentation of material with additional brainstorming and feedback on confusing points
-- self-learner practical approach when it comes to homework 
-- ability to get a job offer to become part of Andersen team
+- Detailed presentation of material with additional brainstorming and feedback on confusing points.
+- Self-learner practical approach when it comes to homework. 
+- Ability to get a job offer to become part of Andersen team.
