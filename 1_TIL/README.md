@@ -20,5 +20,5 @@
 # 2.09.2021 Today I've Learned
 1. How to install VirtualBox on Linux
 ### Today I've revised
-1. comparative and superlative adjectives 
-2. how to give directions in English
+1. Comparative and superlative adjectives 
+2. How to give directions in English
