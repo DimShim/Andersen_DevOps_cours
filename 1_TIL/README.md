@@ -18,7 +18,7 @@
 3. An example of a CI/CD project
 
 # 2.09.2021 Today I've learned
-1. How to install VirtualBox on Linux
+1. How to install Oracle VM VirtualBox on Linux
 ### Today I've revised
 1. Comparative and superlative adjectives 
 2. How to give directions in English
