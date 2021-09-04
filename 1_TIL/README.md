@@ -22,3 +22,6 @@
 ### Today I've revised
 1. Comparative and superlative adjectives 
 2. How to give directions in English
+
+# 3.09.2021 Today I've learned
+1. Installed two Debian 10 (gnome, xfce) in VirtualBox 
