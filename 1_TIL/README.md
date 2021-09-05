@@ -24,8 +24,8 @@
 * How to give directions in English
 
 # 3.09.2021 Today I've learned
-* Installed two Debian 10 (gnome, xfce) in VirtualBox 
+* How to installed two Debian 10 (gnome, xfce) in VirtualBox 
 
 # 4.09.2021 Today I've learned
-* Install Flask
-* Created a minimal Flask application  
+* How to install Flask
+* How to created a minimal Flask application  
