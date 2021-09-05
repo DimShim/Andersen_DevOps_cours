@@ -8,20 +8,24 @@
   * Agile 
 
 # 31.08.2021 Today I've learned
-1. Markdown syntax
-2. DevOps tools roadmap
-3. Basic concept of Jenkins
+* Markdown syntax
+* DevOps tools roadmap
+* Basic concept of Jenkins
  
 # 1.09.2021 Today I've learned
-1. Basic concept of Flask
-2. How to install Linux on an additional HDD
-3. An example of a CI/CD project
+* Basic concept of Flask
+* How to install Linux on an additional HDD
+* An example of a CI/CD project
 
 # 2.09.2021 Today I've learned
-1. How to install Oracle VM VirtualBox on Linux
+* How to install Oracle VM VirtualBox on Linux
 ### Today I've revised
-1. Comparative and superlative adjectives 
-2. How to give directions in English
+* Comparative and superlative adjectives 
+* How to give directions in English
 
 # 3.09.2021 Today I've learned
-1. Installed two Debian 10 (gnome, xfce) in VirtualBox 
+* Installed two Debian 10 (gnome, xfce) in VirtualBox 
+
+# 4.09.2021 Today I've learned
+* Install Flask
+* Created a minimal Flask application  
