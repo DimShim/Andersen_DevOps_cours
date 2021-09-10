@@ -28,4 +28,20 @@
 
 # 4.09.2021 Today I've learned
 * How to install Flask
-* How to create a minimal Flask application  
+* How to create a minimal Flask application
+
+# 5.09.2021 Today I've learned
+* How to use Trello
+
+# 6.09.2021 Today I've learned
+* Basic concept of Ansible
+
+# 7.09.2021 Today I've learned
+* How to install Nginx
+
+# 8.09.2021 Today I've learned
+* Dev tools
+* How to use Visual Studio Code
+
+# 9.09.2021 Today I've learned
+* How to create a bot in Telegram
