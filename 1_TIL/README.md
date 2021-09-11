@@ -45,3 +45,6 @@
 
 # 9.09.2021 Today I've learned
 * How to create a bot in Telegram
+
+# 10.09.2021 Today I've learned
+* How to Serve Flask Applications with uWSGI and Nginx on Linux
