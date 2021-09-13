@@ -48,3 +48,12 @@
 
 # 10.09.2021 Today I've learned
 * How to Serve Flask Applications with uWSGI and Nginx on Linux
+
+# 11.09.2021 Today I've learned
+* How to get a weather report in 4 days through a script?
+
+# 12.09.2021 Today I've learned
+* How do I parse command line arguments in Bash
+
+# 13.09.2021 Today I've learned
+* 
