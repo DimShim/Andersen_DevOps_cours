@@ -2,7 +2,7 @@
 
 
 # define "help" message
-help=$'Show the names of organizations with which the PROCESS has
+help=$'Shows the names of the organizations with which the PROCESS has
 established a connection.'
 
 
