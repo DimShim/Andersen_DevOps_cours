@@ -1,6 +1,5 @@
 #! /bin/bash
 
-
 # define "help" message
 help=$'
 usage: ./fish.sh [PROCESS NAME or PID] [LINES LIMIT]
@@ -11,7 +10,6 @@ established a connection.
 Examples:
 ./fish.sh firefox 5
 '
-
 
 # argument - help
 if [[ $1 == '-h' || $1 == '--help' ]]; then
@@ -34,7 +32,6 @@ echo $separator_line
 printf "%-55s | \n" \
   "|     Organization name with established connection"
 echo $separator_line
-
 
 # script form task
 ss -tunap | awk -v nameOrPID=$1 '$0~nameOrPID {print $6}' | cut -d: -f1 | 
