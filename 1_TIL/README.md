@@ -56,4 +56,10 @@
 * How do I parse command line arguments in Bash
 
 # 13.09.2021 Today I've learned
+* How to process incoming request data in Flask
+
+# 14.09.2021 Today I've learned
+* 
+
+# 15.09.2021 Today I've learned
 * 
