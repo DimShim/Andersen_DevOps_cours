@@ -59,7 +59,7 @@
 * How to process incoming request data in Flask
 
 # 14.09.2021 Today I've learned
-* 
+* Basic playbook at the Ansible
 
 # 15.09.2021 Today I've learned
 * 
