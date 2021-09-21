@@ -62,4 +62,22 @@
 * Basic playbook at the Ansible
 
 # 15.09.2021 Today I've learned
-* 
+* How to add Debian 10 Buster Official repositories to sources.list
+
+# 16.09.2021 Today I've learned
+* How to clone the repo and install Python requirements in a virtualenv
+
+# 17.09.2021 Today I've learned
+* How to configure gunicorn, nginx, ufw and systemd
+
+# 18.09.2021 Today I've learned
+* How to create a key for SSH authorization and add it to the server
+
+# 19.09.2021 Today I've learned
+* Automating Flask and Virtualenv local server with bash script
+
+# 20.09.2021 Today I've learned
+* How to copy files between Linux servers using rsync
+
+# 21.09.2021 Today I've learned
+* How to configure syntax highlighting in the Nano text editor (on Ubuntu/Debian)
