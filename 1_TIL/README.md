@@ -81,3 +81,21 @@
 
 # 21.09.2021 Today I've learned
 * How to configure syntax highlighting in the Nano text editor (on Ubuntu/Debian)
+
+# 22.09.2021 Today I've learned
+* Terraform basics and Essentials
+
+# 23.09.2021 Today I've learned
+* How to use Vagrant & Ansible
+
+# 24.09.2021 Today I've learned
+* How to use Mobaxterm
+
+# 25.09.2021 Today I've learned
+* Studied Ansible on youtube.com
+
+# 26.09.2021 Today I've learned
+* How to play the piano dog waltz 
+
+# 27.09.2021 Today I've learned
+* Network Basics (tcp/udp, basics for IP/vlans/vxlans/vpns/etc.)
