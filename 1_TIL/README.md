@@ -99,3 +99,9 @@
 
 # 27.09.2021 Today I've learned
 * Network Basics (tcp/udp, basics for IP/vlans/vxlans/vpns/etc.)
+
+# 28.09.2021 Today I've learned
+* Python3 ModuleNotFoundError: No module named '<name_module>'
+
+# 29.09.2021 Today I've learned
+* Basic cloud management tools (awscli, azcli etc.)
