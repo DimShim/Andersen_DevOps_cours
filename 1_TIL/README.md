@@ -120,3 +120,4 @@
 
 # 4.10.2021 Today I've learned
 * Today in an online lecture, I learned even more information about the networks.
+* Controlling VirtualBox over SSH with vboxmanage 
