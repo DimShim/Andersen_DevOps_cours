@@ -1,0 +1,6 @@
+# Ansible playbook for sequential launch of all playbooks in order.
+
+---
+- import_playbook: tasks/firewall.yml
+- import_playbook: tasks/flask.yml
+- import_playbook: tasks/nginx.yml

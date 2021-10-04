@@ -1,0 +1,3 @@
+[webservers]
+DebianServ ansible_host=192.168.0.103 server_hostname=myvm.localhost
+#DebianServ ansible_host=192.168.0.103 ansible_port=22 server_hostname=myvm.localhost
