@@ -1,0 +1,96 @@
+
+# Ansible playbook to establish `flask` and `emojis` modules.
+
+---
+# Install system apt packages
+#- hosts: webservers
+#  become: yes
+#  become_method: sudo
+#  tasks:
+#  - name: update cache
+#    apt: update_cache=yes cache_valid_time=43200
+#  - name: upgrade cache
+#    apt:
+#      upgrade: yes
+#  - name: install packages
+#    apt: name={{item}} state=latest
+#    with_items:
+#      - git
+#      - tree         # Optional
+#      - python-pip   # Optional
+#      - python-dev   # Optional
+#      - python3-pip
+#      - python3-dev
+#      - nginx
+
+- hosts: webservers
+  become: yes
+  vars:
+    - app_install_path: /opt/emojis_loopback
+
+  tasks:
+    - name: Install `pip`, `virtualenv`, `setuptools`
+      apt:
+        name:
+          - python3-pip
+          - python3-virtualenv
+          - python3-setuptools
+        state: present
+
+    - name: Install `Flask`, `emoji`
+      pip:
+        name:
+          - Flask
+          - emoji
+        state: present
+
+    - name: Create app directory
+      file:
+        path: "{{ app_install_path }}"
+        state: directory
+
+    - name: Copy `app.py` template on the server
+      template:
+        src: ../app/app.py
+        dest: "{{ app_install_path }}"
+        owner: root
+        group: root
+        mode: 0744
+      notify: restart_my_emoji
+
+    - name: Copy template pages on the server
+      copy:
+        src: ../app/templates
+        dest: "{{ app_install_path }}"
+        owner: root
+        group: root
+        mode: 0744
+      notify: restart_my_emoji
+
+    - name: Check if launch script exist in `/etc/systemd/system/`
+      stat:
+        path: "/etc/systemd/system/my_emoji.service"
+      register: launch_script_exists_check
+
+    - name: Copy launch script template in `/etc/systemd/system/`
+      template:
+        src: ../src/my_emoji.service
+        dest: /etc/systemd/system/my_emoji.service
+        owner: root
+        group: root
+        mode: 0744
+      when: launch_script_exists_check is defined and
+            launch_script_exists_check.stat.exists == false
+      register: launch_script_created
+
+    - name: Start app and enable auto launch after reboot
+      service:
+        name: my_emoji
+        state: started
+        enabled: yes
+
+  handlers:
+    - name: restart_my_emoji
+      service:
+        name: my_emoji
+        state: restarted
