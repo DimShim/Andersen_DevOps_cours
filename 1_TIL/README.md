@@ -105,3 +105,18 @@
 
 # 29.09.2021 Today I've learned
 * Basic cloud management tools (awscli, azcli etc.)
+
+# 30.10.2021 Today I've learned
+* Made a visual diagram of the structure of the full deployment of my application
+
+# 1.10.2021 Today I've learned
+* Studied telegram bot architecture in Go language
+
+# 2.10.2021 Today I've learned
+* Initial Deployment Environment Configuration
+
+# 3.10.2021 Today I've learned
+* Today I finally deployed my application to Debian 10
+
+# 4.10.2021 Today I've learned
+* Today in an online lecture, I learned even more information about the networks.
