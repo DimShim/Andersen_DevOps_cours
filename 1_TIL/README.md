@@ -95,7 +95,7 @@
 * Studied Ansible on youtube.com
 
 # 26.09.2021 Today I've learned
-* How to play the piano dog waltz 
+* How to play the piano dog waltz
 
 # 27.09.2021 Today I've learned
 * Network Basics (tcp/udp, basics for IP/vlans/vxlans/vpns/etc.)
@@ -119,5 +119,20 @@
 * Today I finally deployed my application to Debian 10
 
 # 4.10.2021 Today I've learned
-* Today in an online lecture, I learned even more information about the networks.
-* Controlling VirtualBox over SSH with vboxmanage 
+* Today in an online lecture, I learned even more information about the networks
+* Controlling VirtualBox over SSH with vboxmanage
+
+# 5.10.2021 Today I've learned
+* Development of the Client API (SDK library) on Golang 🚀Creating a Telegram Bot 
+
+# 6.10.2021 Today I've learned
+* Types of databases
+
+# 7.10.2021 Today I've learned
+* How to invoke VS Code Editor from the terminal / command line
+
+# 8.10.2021 Today I've learned
+* Telegram bot for Linux server: monitoring, notifications, management
+
+# 9.10.2021 Today I've learned
+* Finished creating Telegram bot on Golang
