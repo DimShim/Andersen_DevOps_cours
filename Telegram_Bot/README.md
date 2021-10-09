@@ -5,7 +5,7 @@ To complete the assignment, the material was studied:
 * https://github.com/go-telegram-bot-api/telegram-bot-api
 
 
-![image](https://user-images.githubusercontent.com/50591032/136674357-b84c32bd-7430-4e8f-ab46-168543c3828d.png)
+![image](https://user-images.githubusercontent.com/50591032/136674490-0505b4ec-dcf0-4a63-bbc4-252d64ad63dd.png)
 
 ![image](https://user-images.githubusercontent.com/50591032/136674466-12f1a09e-0c2d-4f23-9c68-48a8ea40f1e3.png)
 
