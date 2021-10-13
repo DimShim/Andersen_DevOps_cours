@@ -8,14 +8,17 @@ function get_open_pr_info() {
     echo "Repository is not existed"
     exit
   fi
+  
   if [[ $(echo "$FIRST_PAGE") =~ "API rate" ]]; then
     echo "API rate limit exceeded"
     exit
   fi
+  
   PAGE=1
   OPEN_PR_NUM=0
   OPEN_PR_NUM_PAGE=1
   PR_REQUESTS=()
+  
   while [[ $OPEN_PR_NUM_PAGE -gt 0 ]]; do
     PR_REQUESTS_PAGE=$(curl -sb -H "Accept: application/json" "$1/pulls?page=$PAGE")
     OPEN_PR_NUM_PAGE=$(echo "$PR_REQUESTS_PAGE" | jq '. | length')
@@ -23,6 +26,7 @@ function get_open_pr_info() {
     ((PAGE++))
     ((OPEN_PR_NUM+=$OPEN_PR_NUM_PAGE))
   done
+  
   if [ "$OPEN_PR_NUM" -eq "0" ]; then
     echo "There is no open pull requests"
   else
