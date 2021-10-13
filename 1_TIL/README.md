@@ -136,3 +136,15 @@
 
 # 9.10.2021 Today I've learned
 * Finished creating Telegram bot on Golang
+
+# 10.10.2021 Today I've learned
+* https://docs.github.com
+
+# 11.10.2021 Today I've learned
+* Final lecture about types of databases
+
+# 12.10.2021 Today I've learned
+* jq: JSON command line processing utility
+
+# 13.10.2021 Today I've learned
+*
