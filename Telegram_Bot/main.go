@@ -38,7 +38,7 @@ func main() {
 			bot.Send(msg)
 
 		case "tasks":
-			msg := tgbotapi.NewMessage(update.Message.Chat.ID, "task1 - TIL (Today I've learned) \ntask2 - Ansible+Flask_app+Nginx \ntask3 - Netstat_script \ntask4 - Telegram bot for GitHub")
+			msg := tgbotapi.NewMessage(update.Message.Chat.ID, "task1 - TIL (Today I've learned) \ntask2 - Ansible+Flask_app+Nginx \ntask3 - Netstat_script \ntask4 - Telegram bot for GitHub\ntask5 - script_github_pr")
 			bot.Send(msg)
 
 		case "task1":
