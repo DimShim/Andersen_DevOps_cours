@@ -147,4 +147,4 @@
 * jq: JSON command line processing utility
 
 # 13.10.2021 Today I've learned
-*
+* Made a pull request for the github-pr script and asked colleagues to do a code review
