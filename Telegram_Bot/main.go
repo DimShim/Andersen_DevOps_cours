@@ -56,6 +56,10 @@ func main() {
 		case "task4":
 			msg := tgbotapi.NewMessage(update.Message.Chat.ID, "https://github.com/DimShim/Andersen_DevOps_course/tree/main/Telegram_Bot")
 			bot.Send(msg)
+			
+		case "task5":
+			msg := tgbotapi.NewMessage(update.Message.Chat.ID, "https://github.com/DimShim/Andersen_DevOps_course/tree/main/script_github_pr")
+			bot.Send(msg)
 
 		}
 
