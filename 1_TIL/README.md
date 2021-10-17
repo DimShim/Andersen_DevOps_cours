@@ -148,3 +148,15 @@
 
 # 13.10.2021 Today I've learned
 * Made a pull request for the github-pr script and asked colleagues to do a code review
+
+# 14.10.2021 Today I've learned
+* Built my Python image in Docker
+
+# 15.10.2021 Today I've learned
+* Ran my image as a container
+
+# 16.10.2021 Today I've learned
+* Debugged my image as a container
+
+# 17.10.2021 Today I've learned
+* Using multi-stage builds in Docker
