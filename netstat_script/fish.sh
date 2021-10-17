@@ -8,7 +8,8 @@ Shows the names of the organizations with which the PROCESS has
 established a connection.
 
 Examples:
-./fish.sh firefox 5
+$ ./fish.sh firefox 5
+$ ./fish.sh -h or --help
 '
 
 # argument - help
