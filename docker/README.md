@@ -16,3 +16,8 @@ $ docker rm emojis_loopback
 # remove image
 $ docker rmi emojis_loopback:final
 ```
+
+When the container is running, you can try running:
+```sh
+$ curl -XPOST -d'{"word":"example", "count": 3}' http://127.0.0.1:8080
+```
