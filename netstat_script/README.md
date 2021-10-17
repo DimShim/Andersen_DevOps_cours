@@ -4,10 +4,10 @@ The script shows the names of organizations with which the PROCESS has the maxim
 
 ### Usage logic
 ```sh
-usage: ./fish.sh [PROCESS NAME or PID] [LINES LIMIT]
+$ ./fish.sh [PROCESS NAME or PID] [LINES LIMIT]
 ```
 
 ### Examples:
 ```sh
-./fish.sh firefox 5
+$ ./fish.sh firefox 5
 ```
