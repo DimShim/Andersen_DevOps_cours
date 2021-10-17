@@ -10,4 +10,5 @@ $ ./fish.sh [PROCESS NAME or PID] [LINES LIMIT]
 ### Examples:
 ```sh
 $ ./fish.sh firefox 5
+$ ./fish.sh -h or --help
 ```
