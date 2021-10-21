@@ -160,3 +160,16 @@
 
 # 17.10.2021 Today I've learned
 * Using multi-stage builds in Docker
+
+# 18.10.2021 Today I've learned
+*
+# 18.10.2021 Today I've learned
+*
+# 18.10.2021 Today I've learned
+*
+# 18.10.2021 Today I've learned
+*
+# 22.10.2021 Exam!
+
+
+
