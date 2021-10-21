@@ -173,7 +173,7 @@
 # 21.10.2021 Today I've learned
 * Exam preparation :technologist:
 
-# 22.10.2021 DevOps Exam!
+# 22.10.2021 DevOps Exam! :heavy_check_mark:
 
 
 
