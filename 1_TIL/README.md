@@ -162,14 +162,18 @@
 * Using multi-stage builds in Docker
 
 # 18.10.2021 Today I've learned
-*
+* Exam preparation :technologist:
+
 # 19.10.2021 Today I've learned
-*
+* Exam preparation :technologist:
+
 # 20.10.2021 Today I've learned
-*
+* Exam preparation :technologist:
+
 # 21.10.2021 Today I've learned
-*
-# 22.10.2021 Exam!
+* Exam preparation :technologist:
+
+# 22.10.2021 DevOps Exam!
 
 
 
