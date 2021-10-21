@@ -163,11 +163,11 @@
 
 # 18.10.2021 Today I've learned
 *
-# 18.10.2021 Today I've learned
+# 19.10.2021 Today I've learned
 *
-# 18.10.2021 Today I've learned
+# 20.10.2021 Today I've learned
 *
-# 18.10.2021 Today I've learned
+# 21.10.2021 Today I've learned
 *
 # 22.10.2021 Exam!
 
