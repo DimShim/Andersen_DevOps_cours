@@ -2,26 +2,6 @@
 # Ansible playbook to establish `flask` and `emojis` modules.
 
 ---
-# Install system apt packages
-#- hosts: webservers
-#  become: yes
-#  become_method: sudo
-#  tasks:
-#  - name: update cache
-#    apt: update_cache=yes cache_valid_time=43200
-#  - name: upgrade cache
-#    apt:
-#      upgrade: yes
-#  - name: install packages
-#    apt: name={{item}} state=latest
-#    with_items:
-#      - git
-#      - tree         # Optional
-#      - python-pip   # Optional
-#      - python-dev   # Optional
-#      - python3-pip
-#      - python3-dev
-#      - nginx
 
 - hosts: webservers
   become: yes
