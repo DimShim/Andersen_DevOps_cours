@@ -11,7 +11,7 @@
 
 2. In my work, I value result most of all, when the repaired equipment starts to run like clockwork. A year ago, I started to research how the software of the equipment itself         works, how to launch it locally and remotely  to reach uninterrupted work. So I came back to thinking about DevOps professional area.
 
-3. I have had some challenging experience working with information security, leakage and storage of user data.   
+3. I have had some experience working with information security, leakage and storage of user data.   
    Professional knowledge of DevOps will allow me to improve information security skills and develop further in the direction.
 
 # My expectations from the course:
