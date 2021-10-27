@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 clear
 
 function get_open_pr_info() {
